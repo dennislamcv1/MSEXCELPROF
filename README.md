@@ -1,5 +1,6 @@
-# MSExcelProf
-## Microsoft Excel Professional Certificate Professional Certificate
+# MSEXCELPROF
+
+## Microsoft Excel Professional Certificate Professional Certificate (4 course series)
 
 Unlock the full potential of Microsoft Excel and AI-driven tools with this comprehensive Professional Certificate. Designed for professionals at all career stages, this program equips you with essential, in-demand skills for today’s data-driven workplace. Through hands-on learning, you’ll master Excel’s core functionalities, automate tasks with VBA, and leverage the power of Excel Copilot to transform your data analysis and visualization techniques.
 
